@@ -102,7 +102,7 @@ S'y ajoutent **4 chaînes YouTube** (format vidéo complémentaire, même sélec
 
 ### 4.2 Outils de construction du tableau de bord
 
-- **Feedly ou Inoreader** : agrégation des flux RSS (import du fichier `flux.opml` fourni en annexe) ;
+- **Inoreader** (outil retenu, voir captures en 4.5) : agrégation des flux RSS via l'import du fichier `flux.opml` fourni en annexe ; Feedly reste une alternative ;
 - **Notion ou Obsidian** : tableau de bord personnel (notes, statut « lu / à tester ») ;
 - **Listes X / LinkedIn** : suivi des influenceurs ;
 - **Abonnements YouTube** : playlist « À voir » des 4 chaînes ;
@@ -153,6 +153,22 @@ S'y ajoutent **4 chaînes YouTube** (format vidéo complémentaire, même sélec
 - What's new in C# 15 (Microsoft Learn) : https://learn.microsoft.com/dotnet/csharp/whats-new/csharp-15
 - Fin de support .NET 8/9 : https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support
 
+### 4.5 Mise en œuvre concrète — captures du tableau de bord (17/11/2026)
+
+Le tableau de bord est **opérationnel sur Inoreader** : le fichier `flux.opml` a été importé via *Importer des flux* :
+
+**Étape 1 — Import du fichier OPML :**
+
+![Import du flux OPML dans Inoreader](captures/import-opml.png)
+
+**Étape 2 — Les 10 sources réparties en 3 dossiers (82 articles non lus) : Sources officielles 30 · Blogs d'experts 12 · Agrégateurs 40 :**
+
+![Dossiers et sources du tableau de bord](captures/dossiers-flux.png)
+
+**Étape 3 — Fil d'actualité alimenté en temps réel (articles r/dotnet, .NET 11, ASP.NET Core…) :**
+
+![Fil d'actualité Inoreader](captures/fil-articles.png)
+
 ---
 
 ## 5. Influenceurs suivis (Livrable 2)
@@ -181,10 +197,10 @@ Compte dédié à la veille .NET sur **X (Twitter)** (ou LinkedIn si les profils
 **Lien du livrable 2 :**
 
 ```
-https://x.com/<TON_USERNAME>/following
+https://x.com/rk2m_007/following
 ```
 
-> À remplacer par le lien réel de l'onglet « Abonnements / Following » après avoir suivi les comptes ; vérifier que le profil est public.
+> Profil public : https://x.com/rk2m_007 — les 10 comptes de la liste ci-dessus sont suivis depuis ce compte.
 
 ---
 
