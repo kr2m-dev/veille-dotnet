@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Veille .NET &amp; C# — Khadim Mbaye (TD 2026/2027)</title>
+    <dateCreated>Mon, 17 Nov 2026 10:00:00 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Sources officielles Microsoft" title="Sources officielles Microsoft">
+      <outline type="rss" text=".NET Blog" title=".NET Blog" xmlUrl="https://devblogs.microsoft.com/dotnet/feed/" htmlUrl="https://devblogs.microsoft.com/dotnet/"/>
+      <outline type="rss" text="Visual Studio Blog" title="Visual Studio Blog" xmlUrl="https://devblogs.microsoft.com/visualstudio/feed/" htmlUrl="https://devblogs.microsoft.com/visualstudio/"/>
+      <outline type="rss" text="GitHub dotnet/core" title="GitHub dotnet/core" xmlUrl="https://github.com/dotnet/core/releases.atom" htmlUrl="https://github.com/dotnet/core"/>
+      <outline type="rss" text="Microsoft Learn — .NET" title="Microsoft Learn — .NET" xmlUrl="https://learn.microsoft.com/en-us/dotnet/api/indexrss" htmlUrl="https://learn.microsoft.com/dotnet"/>
+    </outline>
+    <outline text="Blogs d'experts" title="Blogs d'experts">
+      <outline type="rss" text="Andrew Lock — .NET Escapades" title="Andrew Lock" xmlUrl="https://andrewlock.net/rss.xml" htmlUrl="https://andrewlock.net/"/>
+      <outline type="rss" text="Meziantou's blog" title="Meziantou" xmlUrl="https://www.meziantou.net/feed.xml" htmlUrl="https://www.meziantou.net/"/>
+      <outline type="rss" text="Jimmy Bogard" title="Jimmy Bogard" xmlUrl="https://jimmybogard.com/rss.xml" htmlUrl="https://jimmybogard.com/"/>
+      <outline type="rss" text="Anton Martyniuk — antondevtips" title="antondevtips" xmlUrl="https://antondevtips.com/index.xml" htmlUrl="https://antondevtips.com/"/>
+    </outline>
+    <outline text="Agrégateurs &amp; communauté" title="Agrégateurs &amp; communauté">
+      <outline type="rss" text="Tech Hub — .NET Roundups" title="Tech Hub .NET" xmlUrl="https://tech.hub.ms/dotnet/roundups/rss" htmlUrl="https://tech.hub.ms/dotnet/roundups"/>
+      <outline type="rss" text="r/dotnet" title="r/dotnet" xmlUrl="https://www.reddit.com/r/dotnet/.rss" htmlUrl="https://www.reddit.com/r/dotnet/"/>
+    </outline>
+    <outline text="YouTube (abonnements)" title="YouTube (abonnements)">
+      <outline type="link" text=".NET (officiel)" title=".NET (officiel)" htmlUrl="https://www.youtube.com/@dotnet"/>
+      <outline type="link" text="Nick Chapsas" title="Nick Chapsas" htmlUrl="https://www.youtube.com/@nickchapsas"/>
+      <outline type="link" text="Raw Coding" title="Raw Coding" htmlUrl="https://www.youtube.com/@RawCoding"/>
+      <outline type="link" text="IAmTimCorey" title="IAmTimCorey" htmlUrl="https://www.youtube.com/@IAmTimCorey"/>
+    </outline>
+  </body>
+</opml>
